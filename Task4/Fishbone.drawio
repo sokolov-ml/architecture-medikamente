@@ -1,0 +1,113 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="T6KetGkfE4FmRHEW4EaH">
+    <mxGraphModel dx="1434" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-1" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="pwwzQqlDryDOsZgIDm2j-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="640" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-6" value="Запись пациентов" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontSize=14;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-4">
+          <mxGeometry x="-0.7462" y="2" relative="1" as="geometry">
+            <mxPoint x="-7" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-7" value="Высокие нагрузки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-4">
+          <mxGeometry x="-0.3788" y="1" relative="1" as="geometry">
+            <mxPoint x="-53" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-8" value="Безопасность" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-4">
+          <mxGeometry x="-0.1365" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-9" value="Высокая доступность портала" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-4">
+          <mxGeometry x="-0.1365" y="2" relative="1" as="geometry">
+            <mxPoint x="-19" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-10" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-11" value="Персонал" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontSize=14;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-10">
+          <mxGeometry x="-0.7462" y="2" relative="1" as="geometry">
+            <mxPoint x="-7" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-12" value="Развитие ИТ подразделения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-10">
+          <mxGeometry x="-0.3788" y="1" relative="1" as="geometry">
+            <mxPoint x="-83" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-14" value="Новые компетенции" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-10">
+          <mxGeometry x="-0.1365" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-15" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="560" as="sourcePoint" />
+            <mxPoint x="640" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-16" value="Анализы" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontSize=14;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-15">
+          <mxGeometry x="-0.7462" y="2" relative="1" as="geometry">
+            <mxPoint x="-7" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-17" value="Сбои между контрагентами" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-15">
+          <mxGeometry x="-0.3788" y="1" relative="1" as="geometry">
+            <mxPoint x="-71" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-19" value="Неготовность к автоматизации&lt;br&gt;со стороны лаборатории" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-15">
+          <mxGeometry x="-0.1365" y="2" relative="1" as="geometry">
+            <mxPoint x="-5" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-24" value="Контроль и качество данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-15">
+          <mxGeometry x="-0.3788" y="1" relative="1" as="geometry">
+            <mxPoint x="-61" y="-70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-20" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-21" value="Инфраструктура" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontSize=14;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-20">
+          <mxGeometry x="-0.7462" y="2" relative="1" as="geometry">
+            <mxPoint x="-7" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-23" value="Повышение расходов" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-20">
+          <mxGeometry x="-0.1365" y="2" relative="1" as="geometry">
+            <mxPoint x="-5" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwwzQqlDryDOsZgIDm2j-25" value="Мониторинг" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;fontColor=#333333;" vertex="1" connectable="0" parent="pwwzQqlDryDOsZgIDm2j-20">
+          <mxGeometry x="0.345" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
